@@ -26,7 +26,7 @@ This is a simple countdown timer program that takes an integer input from a user
 
 > **2. Go to the repository's main directory:**
    ```
-   cd onsole-based_Countdown_Timer
+   cd Console-based_Countdown_Timer
    ```
 ##
 **Method 2: Fork repository**
