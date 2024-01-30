@@ -1,16 +1,3 @@
-
-# ------------------------------------------------
-# File Name: Timer.py
-# ------------------------------------------------
-# Date Finished: 07-08-2022
-# ------------------------------------------------
-# Description:
-# This is a simple countdown timer program that 
-# takes an integer input from a user & uses that 
-# input as the time to be counted down until it 
-# reaches 1.  
-# ------------------------------------------------
-
 import time
 
 print("\n========= Countdown Timer =========\n")
