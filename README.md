@@ -38,4 +38,4 @@ This is a simple countdown timer program that takes an integer input from a user
 
 ### 📄 IV. License
 
-👉 [Project License](https://github.com/m3mentomor1/Pneumonia_Detection_with_Lightweight-CNN-Models/blob/main/LICENSE)
+👉 [Project License](https://github.com/m3mentomor1/Console-based_Countdown_Timer/blob/main/LICENSE)
