@@ -32,3 +32,9 @@ This is a simple countdown timer program that takes an integer input from a user
    ```
    cd Console-based_Countdown_Timer
    ```
+<br><br>
+##
+
+### 📄 IV. License
+
+👉 [Project License](https://github.com/m3mentomor1/Pneumonia_Detection_with_Lightweight-CNN-Models/blob/main/LICENSE)
