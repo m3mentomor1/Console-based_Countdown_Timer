@@ -1,12 +1,6 @@
-<div align="center">
-  <h1>Console-based Countdown Timer</h1>
-</div>
-
 ### 🧐 I. Overview
 
-<div align="center">
-  ![gif](https://github.com/m3mentomor1/Console-based_Countdown_Timer/assets/95956735/60569d22-7f84-4222-b2d2-7d18063fcb3b)
-</div>
+![gif](https://github.com/m3mentomor1/Console-based_Countdown_Timer/assets/95956735/60569d22-7f84-4222-b2d2-7d18063fcb3b)
 
 This is a simple countdown timer program that takes an integer input from a user & uses that input as the time to be counted down until it reaches 1.
 <br><br>
